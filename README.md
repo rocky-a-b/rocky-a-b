@@ -39,14 +39,23 @@ No PC — everything I've built so far is from a **mobile device**.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,kotlin,linux,git,github&theme=dark" />
 </p>
-
+<br>
+<br>
+<br>
 **Comfortable with:**
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,markdown&theme=dark" />
-
+<br>
+<br>
+<br>
 **Currently learning:**
+<br>
 <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,kotlin&theme=dark" />
-
+<br>
+<br>
+<br>
 **Planning to learn:**
+<br>
 <img src="https://skillicons.dev/icons?i=rust,go,flutter,lua,haskell&theme=dark" />
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
